@@ -23,9 +23,6 @@ The goal of this project is to make penetration testing and vulnerability assess
 > [!TIP]
 > __PhoneSploit Pro__ can also be used as a complete ADB Toolkit to perform various operations on Android devices over Wi-Fi as well as USB. 
 
-# Screenshots
-
-![Screenshot Page 1](docs/Screenshot-1.png)
 # Features 
 ## v1.0
 
